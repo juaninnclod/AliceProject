@@ -12,4 +12,9 @@ class IndexController extends Controller
     {
         echo "Hola mundo para ser original";
     }
+
+    public function other()
+    {
+        
+    }
 }
