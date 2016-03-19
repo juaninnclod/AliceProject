@@ -10,7 +10,7 @@ class IndexController extends Controller
 {
     public function index()
     {
-        echo "Hola mundo para ser original";
+        echo "Hola mundo para ser original, modificado";
     }
 
     public function other()
